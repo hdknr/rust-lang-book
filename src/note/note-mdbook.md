@@ -41,6 +41,7 @@ additional-css = ["ferris.css", "theme/2018-edition.css"]
 additional-js = ["ferris.js"]
 ~~~
 
-## 記事
+## リソース/記事
 
+- [Basic writing and formatting syntax - GitHub Help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 - [eom/bookの日本語版を作り始めた](https://qiita.com/termoshtt/items/13965b57c2a4afa85399)
