@@ -133,3 +133,8 @@
     - [E - Editions](appendix-05-editions.md)
     - [F - Translations of the Book](appendix-06-translation.md)
     - [G - How Rust is Made and “Nightly Rust”](appendix-07-nightly-rust.md)
+
+- [ノート](note/SUMMARY.md)
+    - [日本語](note/note-ja.md)
+    - [mdBook](note/note-mdbook.md)
+    - [ripgrep](note/note-ripgrep.md)
